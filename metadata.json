@@ -1,0 +1,8 @@
+{
+  "name": "hwinfoTB",
+  "description": "Show hardware info in TaskBar",
+  "uuid": "com.app.hwinfoTB",
+  "shell-version": [
+    "49"
+  ]
+}
